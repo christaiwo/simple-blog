@@ -1,0 +1,1 @@
+var VALNET_GLOBAL_ISADBLOCK = false;
